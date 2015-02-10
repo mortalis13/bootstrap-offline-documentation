@@ -1,5 +1,5 @@
 # bootstrap-offline-docs
-Bootstrap framework offline documentation
+Bootstrap Framework offline documentation
 
 Similar to https://github.com/AAlakkad/Bootstrap-3-Offline-Docs but with working examples
 Created with Offline Explorer 6
